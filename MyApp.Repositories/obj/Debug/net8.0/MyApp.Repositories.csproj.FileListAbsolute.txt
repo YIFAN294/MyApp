@@ -1,0 +1,13 @@
+D:\net6\MyApp\MyApp.Web\bin\Debug\net8.0\MyApp.Repositories.deps.json
+D:\net6\MyApp\MyApp.Web\bin\Debug\net8.0\MyApp.Repositories.dll
+D:\net6\MyApp\MyApp.Web\bin\Debug\net8.0\MyApp.Repositories.pdb
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.csproj.AssemblyReference.cache
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.AssemblyInfoInputs.cache
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.AssemblyInfo.cs
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.csproj.CoreCompileInputs.cache
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Re.B3D61638.Up2Date
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.dll
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\refint\MyApp.Repositories.dll
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\MyApp.Repositories.pdb
+D:\net6\MyApp\MyApp.Repositories\obj\Debug\net8.0\ref\MyApp.Repositories.dll

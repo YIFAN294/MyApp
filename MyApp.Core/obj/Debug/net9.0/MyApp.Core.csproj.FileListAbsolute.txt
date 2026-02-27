@@ -1,0 +1,13 @@
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\MyApp.Core.deps.json
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\MyApp.Core.dll
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\MyApp.Core.pdb
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.csproj.AssemblyReference.cache
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.AssemblyInfoInputs.cache
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.AssemblyInfo.cs
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.csproj.CoreCompileInputs.cache
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.csproj.Up2Date
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.dll
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\refint\MyApp.Core.dll
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.pdb
+D:\net6\MyApp\MyApp.Core\obj\Debug\net9.0\ref\MyApp.Core.dll

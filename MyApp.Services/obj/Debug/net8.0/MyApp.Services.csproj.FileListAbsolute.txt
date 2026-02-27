@@ -1,0 +1,13 @@
+D:\net6\MyApp\MyApp.Web\bin\Debug\net8.0\MyApp.Services.deps.json
+D:\net6\MyApp\MyApp.Web\bin\Debug\net8.0\MyApp.Services.dll
+D:\net6\MyApp\MyApp.Web\bin\Debug\net8.0\MyApp.Services.pdb
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.csproj.AssemblyReference.cache
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.AssemblyInfoInputs.cache
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.AssemblyInfo.cs
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.csproj.CoreCompileInputs.cache
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Se.48D4330E.Up2Date
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.dll
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\refint\MyApp.Services.dll
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\MyApp.Services.pdb
+D:\net6\MyApp\MyApp.Services\obj\Debug\net8.0\ref\MyApp.Services.dll

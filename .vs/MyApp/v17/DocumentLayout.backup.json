@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net6\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\migrations\\20260223075504_addsextouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\migrations\\20260223075504_addsextouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9E123E-629F-99F9-B20D-4523D176D59F}|MyApp.Models\\MyApp.Models.csproj|d:\\net6\\myapp\\myapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9E123E-629F-99F9-B20D-4523D176D59F}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\migrations\\20260222161703_addagecolumntoexistinguserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\migrations\\20260222161703_addagecolumntoexistinguserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\migrations\\20260222161411_addagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\migrations\\20260222161411_addagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\myapp.web.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\myapp.web.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\myapp.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\myapp.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\modules\\repositorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\modules\\repositorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|d:\\net6\\myapp\\myapp.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|solutionrelative:myapp.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|d:\\net6\\myapp\\myapp.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|solutionrelative:myapp.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|d:\\net6\\myapp\\myapp.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|solutionrelative:myapp.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|d:\\net6\\myapp\\myapp.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|solutionrelative:myapp.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9E123E-629F-99F9-B20D-4523D176D59F}|MyApp.Models\\MyApp.Models.csproj|d:\\net6\\myapp\\myapp.models\\myapp.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD9E123E-629F-99F9-B20D-4523D176D59F}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\myapp.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|d:\\net6\\myapp\\myapp.services\\myapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|solutionrelative:myapp.services\\myapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\b.migrationsassembly(myapp.web))||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\b.migrationsassembly(myapp.web))||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\myapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\myapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\myapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\myapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|d:\\net6\\myapp\\myapp.repositories\\myapp.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|solutionrelative:myapp.repositories\\myapp.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|d:\\net6\\myapp\\myapp.core\\myapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|solutionrelative:myapp.core\\myapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\myapp.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\myapp.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|d:\\net6\\myapp\\myapp.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|solutionrelative:myapp.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|d:\\net6\\myapp\\myapp.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF4CC3-509F-2159-0754-E56D65F4C75A}|MyApp.Core\\MyApp.Core.csproj|solutionrelative:myapp.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|d:\\net6\\myapp\\myapp.infrastructure\\myapp.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{09F77EAD-B860-4D66-B920-A963F045D698}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\myapp.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9E123E-629F-99F9-B20D-4523D176D59F}|MyApp.Models\\MyApp.Models.csproj|d:\\net6\\myapp\\myapp.models\\myapp.models.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AD9E123E-629F-99F9-B20D-4523D176D59F}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\myapp.models.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|d:\\net6\\myapp\\myapp.repositories\\myapp.repositories.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7DE8C5B6-9066-38D5-293B-5960E8D3261F}|MyApp.Repositories\\MyApp.Repositories.csproj|solutionrelative:myapp.repositories\\myapp.repositories.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|d:\\net6\\myapp\\myapp.services\\myapp.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|solutionrelative:myapp.services\\myapp.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|d:\\net6\\myapp\\myapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D88F7EC-E797-A9AB-5A3C-CD28D55D0E18}|MyApp.Web\\MyApp.Web.csproj|solutionrelative:myapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260222161703_AddAgeColumnToExistingUsersTable.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\20260222161703_AddAgeColumnToExistingUsersTable.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Migrations\\20260222161703_AddAgeColumnToExistingUsersTable.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\20260222161703_AddAgeColumnToExistingUsersTable.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\Migrations\\20260222161703_AddAgeColumnToExistingUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:48:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T16:20:00.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp.Web\\Program.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\Program.cs",
+              "RelativeToolTip": "MyApp.Web\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:32:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T09:02:54.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T16:06:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp.Web\\appsettings.json",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\appsettings.json",
+              "RelativeToolTip": "MyApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T06:32:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MyApp.Web\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MyApp.Web\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:32:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260223075504_AddSexToUser.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\20260223075504_AddSexToUser.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Migrations\\20260223075504_AddSexToUser.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\20260223075504_AddSexToUser.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\Migrations\\20260223075504_AddSexToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:55:17.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260222161411_AddAgeToUser.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\20260222161411_AddAgeToUser.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\Migrations\\20260222161411_AddAgeToUser.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\Migrations\\20260222161411_AddAgeToUser.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\Migrations\\20260222161411_AddAgeToUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T16:19:17.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyApp.Web.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "MyApp.Web\\MyApp.Web.csproj.Backup.tmp",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.csproj.Backup.tmp",
+              "RelativeToolTip": "MyApp.Web\\MyApp.Web.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-23T07:47:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Models\\User.cs",
+              "RelativeDocumentMoniker": "MyApp.Models\\User.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Models\\User.cs",
+              "RelativeToolTip": "MyApp.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:30:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceModule.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\Modules\\ServiceModule.cs",
+              "RelativeDocumentMoniker": "MyApp.Web\\Modules\\ServiceModule.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\Modules\\ServiceModule.cs",
+              "RelativeToolTip": "MyApp.Web\\Modules\\ServiceModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:32:41.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryModule.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\Modules\\RepositoryModule.cs",
+              "RelativeDocumentMoniker": "MyApp.Web\\Modules\\RepositoryModule.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\Modules\\RepositoryModule.cs",
+              "RelativeToolTip": "MyApp.Web\\Modules\\RepositoryModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:32:35.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MyApp.Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:31:18.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "MyApp.Repositories\\Repository.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Repositories\\Repository.cs",
+              "RelativeToolTip": "MyApp.Repositories\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:29:40.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MyApp.Services\\UserService.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Services\\UserService.cs",
+              "RelativeToolTip": "MyApp.Services\\UserService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:31:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyApp.Web.http",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.http",
+              "RelativeDocumentMoniker": "MyApp.Web\\MyApp.Web.http",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.http",
+              "RelativeToolTip": "MyApp.Web\\MyApp.Web.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-22T07:48:38.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MyApp.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T14:12:41.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyApp.Models.csproj",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Models\\MyApp.Models.csproj",
+              "RelativeDocumentMoniker": "MyApp.Models\\MyApp.Models.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Models\\MyApp.Models.csproj",
+              "RelativeToolTip": "MyApp.Models\\MyApp.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T06:30:18.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyApp.Services.csproj",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Services\\MyApp.Services.csproj",
+              "RelativeDocumentMoniker": "MyApp.Services\\MyApp.Services.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Services\\MyApp.Services.csproj",
+              "RelativeToolTip": "MyApp.Services\\MyApp.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T07:33:39.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "run.bat",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\run.bat",
+              "RelativeDocumentMoniker": "MyApp.Web\\run.bat",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\run.bat",
+              "RelativeToolTip": "MyApp.Web\\run.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2026-02-22T16:24:06.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dotnet",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\dotnet",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\dotnet",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\dotnet",
+              "RelativeToolTip": "MyApp.Infrastructure\\dotnet",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-22T16:06:03.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "b.MigrationsAssembly(MyApp.Web))",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\b.MigrationsAssembly(MyApp.Web))",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\b.MigrationsAssembly(MyApp.Web))",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\b.MigrationsAssembly(MyApp.Web))",
+              "RelativeToolTip": "MyApp.Infrastructure\\b.MigrationsAssembly(MyApp.Web))",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-22T16:06:01.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyApp.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "RelativeToolTip": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T15:35:16.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyApp.Web.csproj",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.csproj",
+              "RelativeDocumentMoniker": "MyApp.Web\\MyApp.Web.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.csproj",
+              "RelativeToolTip": "MyApp.Web\\MyApp.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T07:31:52.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyApp.Repositories.csproj",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Repositories\\MyApp.Repositories.csproj",
+              "RelativeDocumentMoniker": "MyApp.Repositories\\MyApp.Repositories.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Repositories\\MyApp.Repositories.csproj",
+              "RelativeToolTip": "MyApp.Repositories\\MyApp.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T06:10:11.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyApp.Core.csproj",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
+              "RelativeDocumentMoniker": "MyApp.Core\\MyApp.Core.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
+              "RelativeToolTip": "MyApp.Core\\MyApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T08:05:41.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFEHAAAAAAAAAAAAwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-22T15:58:48.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyApp.Web",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.csproj",
+              "RelativeDocumentMoniker": "MyApp.Web\\MyApp.Web.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\MyApp.Web.csproj",
+              "RelativeToolTip": "MyApp.Web\\MyApp.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T07:58:20.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MyApp.Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:29:53.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MyApp.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MyApp.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T14:02:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MyApp.Infrastructure",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "RelativeToolTip": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T09:04:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MyApp.Models",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Models\\MyApp.Models.csproj",
+              "RelativeDocumentMoniker": "MyApp.Models\\MyApp.Models.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Models\\MyApp.Models.csproj",
+              "RelativeToolTip": "MyApp.Models\\MyApp.Models.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T07:57:53.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyApp.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyApp.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T08:37:06.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyApp.Repositories",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Repositories\\MyApp.Repositories.csproj",
+              "RelativeDocumentMoniker": "MyApp.Repositories\\MyApp.Repositories.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Repositories\\MyApp.Repositories.csproj",
+              "RelativeToolTip": "MyApp.Repositories\\MyApp.Repositories.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T07:58:03.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MyApp.Services",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Services\\MyApp.Services.csproj",
+              "RelativeDocumentMoniker": "MyApp.Services\\MyApp.Services.csproj",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Services\\MyApp.Services.csproj",
+              "RelativeToolTip": "MyApp.Services\\MyApp.Services.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T07:58:11.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\net6\\MyApp\\MyApp.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyApp.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\net6\\MyApp\\MyApp.Web\\appsettings.Development.json",
+              "RelativeToolTip": "MyApp.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T07:44:47.509Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1300,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

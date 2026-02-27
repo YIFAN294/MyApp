@@ -1,0 +1,15 @@
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\appsettings.Development.json
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\appsettings.json
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\MyApp.Infrastructure.deps.json
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\MyApp.Infrastructure.dll
+D:\net6\MyApp\MyApp.Web\bin\Debug\net9.0\MyApp.Infrastructure.pdb
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.csproj.AssemblyReference.cache
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.AssemblyInfoInputs.cache
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.AssemblyInfo.cs
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.In.4513676F.Up2Date
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.dll
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\refint\MyApp.Infrastructure.dll
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.pdb
+D:\net6\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\ref\MyApp.Infrastructure.dll
