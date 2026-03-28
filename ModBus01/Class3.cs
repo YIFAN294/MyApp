@@ -8,5 +8,7 @@ namespace ModBus01
 {
     internal class Class3
     {
+        //test03
+        //test04
     }
 }
