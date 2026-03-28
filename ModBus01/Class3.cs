@@ -8,9 +8,5 @@ namespace ModBus01
 {
     internal class Class3
     {
-        //sdfsfsfsf
-
-
-
     }
 }
